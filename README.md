@@ -1,2 +1,3 @@
-# php-EmbedGoogleMap-OldAPI
-DEPRECIATED. Quick and dirty Google map embed.
+*Cleaning out my hard drives; this project is not maintained.*
+
+Any and all documentation is inline with code.
